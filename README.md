@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=SangWook&height=300&fontSize=80&textBg=true)
+https://img.shields.io/badge/javascript-green
