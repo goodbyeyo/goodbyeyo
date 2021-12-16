@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 Technology Stack
+### Technology Stack 🌱 
 
 ![header](https://img.shields.io/badge/Java-red)
 ![header](https://img.shields.io/badge/SpringBoot-orange)
@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 
 
 
-⚡ Activity 
+### Activity ⚡  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodbyeyo&theme=flag-india&show_icons=true)
 
 
-💬 
+### Languages 💬 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodbyeyo&layout=compact)
 
