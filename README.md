@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+lightgrey
 -->
 
 ### 🌱 Technology Stack
@@ -25,7 +26,9 @@ Here are some ideas to get you started:
 ![header](https://img.shields.io/badge/MariaDB-blue)
 ![header](https://img.shields.io/badge/Javascript-green)
 ![header](https://img.shields.io/badge/Vuejs-yellow)
-![header](https://img.shields.io/badge/Webpack-yellow)
+![header](https://img.shields.io/badge/Webpack-yellowgreen)
+![header](https://img.shields.io/badge/Jenkins-blueviolet)
+![header](https://img.shields.io/badge/Rundeck-blueviolet)
 ![header](https://img.shields.io/badge/Git-black)
 <tr/>
 
