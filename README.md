@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodbyeyo&layout=compact&theme=dark)
 
 
-### 💬 ask about me
+### 💬 About me
 간절한 마음으로 좋은 개발자가 되기 위해 노력하고 있습니다
 
 
-### 📫 blog
+### 📫 Blog
 https://goodbyeyo.tistory.com/
 
 
