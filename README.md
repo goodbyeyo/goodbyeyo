@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#🌱 Technology Stack
+🌱 ## Technology Stack
 ![header](https://img.shields.io/badge/Java-red)
 ![header](https://img.shields.io/badge/SpringBoot-orange)
 ![header](https://img.shields.io/badge/SpringDataJPA-orange)
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![header](https://img.shields.io/badge/Webpack-yellow)
 ![header](https://img.shields.io/badge/Git-black)
 
-#⚡ Activity
+⚡ ## Activity
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodbyeyo&theme=solarized-light&show_icons=true)
 
 
