@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Technology Stack 🌱 
+### 🌱 Technology Stack
 
 ![header](https://img.shields.io/badge/Java-red)
 ![header](https://img.shields.io/badge/SpringBoot-orange)
@@ -31,17 +31,22 @@ Here are some ideas to get you started:
 
 
 
-### Activity ⚡  
+### ⚡ Activity
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodbyeyo&theme=swift&show_icons=true)
-
-
-### Languages 💬 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodbyeyo&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodbyeyo&theme=dark&show_icons=true)
 
 
+### 🔭 Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodbyeyo&layout=compact&theme=dark)
+
+
+### 💬 ask about me
+간절한 마음으로 좋은 개발자가 되기 위해 노력하고 있습니다
+
+
+### 📫 blog
+https://goodbyeyo.tistory.com/
 
 
 
