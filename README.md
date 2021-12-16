@@ -14,5 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://img.shields.io/badge/Java-red)
+![header](https://img.shields.io/badge/SpringBoot-orange)
+![header](https://img.shields.io/badge/PostgreSQL-blue)
+![header](https://img.shields.io/badge/Oracle-blue)
+![header](https://img.shields.io/badge/Javascript-green)
+![header](https://img.shields.io/badge/Vuejs-yellow)
+![header](https://img.shields.io/badge/Nodejs-yellow)
+![header](https://img.shields.io/badge/Webpack-yellow)
+![header](https://img.shields.io/badge/Git-black)
 
-![header](https://img.shields.io/badge/javascript-green)
+
+
+
