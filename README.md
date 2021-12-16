@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 ![header](https://img.shields.io/badge/Java-red)
 ![header](https://img.shields.io/badge/SpringBoot-orange)
+![header](https://img.shields.io/badge/SpringDataJPA-orange)
 ![header](https://img.shields.io/badge/PostgreSQL-blue)
 ![header](https://img.shields.io/badge/Oracle-blue)
 ![header](https://img.shields.io/badge/Javascript-green)
 ![header](https://img.shields.io/badge/Vuejs-yellow)
-![header](https://img.shields.io/badge/Nodejs-yellow)
 ![header](https://img.shields.io/badge/Webpack-yellow)
 ![header](https://img.shields.io/badge/Git-black)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodbyeyo&theme=solarized-light&show_icons=true)
 
 
