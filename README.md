@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### Activity ⚡  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodbyeyo&theme=flag-india&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodbyeyo&theme=swift&show_icons=true)
 
 
 ### Languages 💬 
