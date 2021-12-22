@@ -49,7 +49,6 @@ lightgrey
 
 
 ### 📫 Blog
-https://goodbyeyo.tistory.com/
 
 
 
