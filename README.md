@@ -21,9 +21,12 @@ lightgrey
 ![header](https://img.shields.io/badge/Java-red)
 ![header](https://img.shields.io/badge/SpringBoot-orange)
 ![header](https://img.shields.io/badge/SpringDataJPA-orange)
+<!--
 ![header](https://img.shields.io/badge/Oracle-blue)
 ![header](https://img.shields.io/badge/PostgreSQL-blue)
 ![header](https://img.shields.io/badge/MariaDB-blue)
+-->
+![header](https://img.shields.io/badge/Thymeleaf-green)
 ![header](https://img.shields.io/badge/Javascript-green)
 ![header](https://img.shields.io/badge/Vuejs-yellow)
 ![header](https://img.shields.io/badge/Webpack-yellowgreen)
