@@ -30,7 +30,7 @@ lightgrey
 ![header](https://img.shields.io/badge/Webpack-yellowgreen)
 ![header](https://img.shields.io/badge/Jenkins-blueviolet)
 ![header](https://img.shields.io/badge/Rundeck-blueviolet)
-![header](https://img.shields.io/badge/Git-black)
+![header](https://img.shields.io/badge/Git-grey)
 <tr/>
 
 
