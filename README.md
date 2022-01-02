@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 lightgrey
 ![header](https://img.shields.io/badge/Oracle-blue)
 ![header](https://img.shields.io/badge/PostgreSQL-blue)
-![header](https://img.shields.io/badge/MariaDB-blue)
+![header](https://img.shields.io/badge/MySQL-blue)
 -->
 
 ### 🌱 Technology Stack
@@ -26,8 +26,11 @@ lightgrey
 ![header](https://img.shields.io/badge/SpringDataJPA-orange)
 ![header](https://img.shields.io/badge/Javascript-green)
 ![header](https://img.shields.io/badge/Vuejs-yellow)
-![header](https://img.shields.io/badge/Thymeleaf-yellowgreen)
+![header](https://img.shields.io/badge/Thymeleaf-yellow)
 ![header](https://img.shields.io/badge/Webpack-yellowgreen)
+![header](https://img.shields.io/badge/Oracle-blue)
+![header](https://img.shields.io/badge/PostgreSQL-blue)
+![header](https://img.shields.io/badge/MySQL-blue)
 ![header](https://img.shields.io/badge/Jenkins-blueviolet)
 ![header](https://img.shields.io/badge/Rundeck-blueviolet)
 ![header](https://img.shields.io/badge/Git-grey)
