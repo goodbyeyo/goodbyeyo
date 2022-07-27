@@ -33,6 +33,8 @@ lightgrey
 ![header](https://img.shields.io/badge/MySQL-blue)
 ![header](https://img.shields.io/badge/Jenkins-blueviolet)
 ![header](https://img.shields.io/badge/Rundeck-blueviolet)
+![header](https://img.shields.io/badge/Kafka-blueviolet)
+![header](https://img.shields.io/badge/AWS-blueviolet)
 ![header](https://img.shields.io/badge/Git-grey)
 <tr/>
 
