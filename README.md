@@ -22,7 +22,7 @@ lightgrey
 ### 🌱 Technology Stack
 
 ![header](https://img.shields.io/badge/Java-red)
-![header](https://img.shields.io/badge/SpringBoot-orange)
+![header](https://img.shields.io/badge/Spring-orange)
 ![header](https://img.shields.io/badge/SpringDataJPA-orange)
 ![header](https://img.shields.io/badge/Javascript-green)
 ![header](https://img.shields.io/badge/Vuejs-yellow)
@@ -34,7 +34,6 @@ lightgrey
 ![header](https://img.shields.io/badge/Jenkins-blueviolet)
 ![header](https://img.shields.io/badge/Rundeck-blueviolet)
 ![header](https://img.shields.io/badge/Kafka-blueviolet)
-![header](https://img.shields.io/badge/AWS-blueviolet)
 ![header](https://img.shields.io/badge/Git-grey)
 <tr/>
 
