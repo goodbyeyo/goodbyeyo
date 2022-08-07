@@ -19,37 +19,43 @@ lightgrey
 ![header](https://img.shields.io/badge/MySQL-blue)
 -->
 
-### 🌱 Technology Stack
+### Technology Stack List
 
 ![header](https://img.shields.io/badge/Java-red)
-![header](https://img.shields.io/badge/Spring-orange)
-![header](https://img.shields.io/badge/SpringDataJPA-orange)
-![header](https://img.shields.io/badge/Javascript-green)
-![header](https://img.shields.io/badge/Vuejs-yellow)
-![header](https://img.shields.io/badge/Thymeleaf-yellow)
-![header](https://img.shields.io/badge/Webpack-yellowgreen)
-![header](https://img.shields.io/badge/Oracle-blue)
-![header](https://img.shields.io/badge/PostgreSQL-blue)
-![header](https://img.shields.io/badge/MySQL-blue)
-![header](https://img.shields.io/badge/Jenkins-blueviolet)
-![header](https://img.shields.io/badge/Rundeck-blueviolet)
-![header](https://img.shields.io/badge/Kafka-blueviolet)
-![header](https://img.shields.io/badge/Git-grey)
+![header](https://img.shields.io/badge/Kotlin-orange)
+![header](https://img.shields.io/badge/Spring-pink)
+![header](https://img.shields.io/badge/SpringDataJPA-pink)
+![header](https://img.shields.io/badge/SpringBatch-pink)
+![header](https://img.shields.io/badge/Javascript-yellowgreen)
+![header](https://img.shields.io/badge/Vuejs-yellowgreen)
+![header](https://img.shields.io/badge/Thymeleaf-yellowgreen)
+![header](https://img.shields.io/badge/Webpack-green)
+
+![header](https://img.shields.io/badge/Kafka(learning)-grey)
+![header](https://img.shields.io/badge/RabbitMq-grey)
+![header](https://img.shields.io/badge/Jenkins-blue)
+![header](https://img.shields.io/badge/Rundeck-blue)
+![header](https://img.shields.io/badge/Git-skyblue)
+![header](https://img.shields.io/badge/Svn-skyblue)
+![header](https://img.shields.io/badge/Oracle-blueviolet)
+![header](https://img.shields.io/badge/PostgreSQL-blueviolet)
+![header](https://img.shields.io/badge/MySQL-blueviolet)
+
 <tr/>
 
 
 
-### ⚡ Activity
+### Activity
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodbyeyo&theme=dark&show_icons=true)
 
 
-### 🔭 Languages
+### Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodbyeyo&layout=compact&theme=dark)
 
 
-### 💬 About me
+### About me 💬 
 간절한 마음으로 좋은 개발자가 되기 위해 노력하고 있습니다
 
 
