@@ -18,8 +18,8 @@ lightgrey
 ![header](https://img.shields.io/badge/PostgreSQL-blue)
 ![header](https://img.shields.io/badge/MySQL-blue)
 -->
-
-### Technology Stack List
+<!--
+### FaborTech  List
 
 ![header](https://img.shields.io/badge/Java-red)
 ![header](https://img.shields.io/badge/Kotlin-orange)
@@ -36,30 +36,27 @@ lightgrey
 ![header](https://img.shields.io/badge/Jenkins-blue)
 ![header](https://img.shields.io/badge/Rundeck-blue)
 ![header](https://img.shields.io/badge/Git-skyblue)
-![header](https://img.shields.io/badge/Svn-skyblue)
-![header](https://img.shields.io/badge/Oracle-blueviolet)
-![header](https://img.shields.io/badge/PostgreSQL-blueviolet)
-![header](https://img.shields.io/badge/MySQL-blueviolet)
-
-<tr/>
-
-
-
-### Activity
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodbyeyo&theme=dark&show_icons=true)
-
 
 ### Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodbyeyo&layout=compact&theme=dark)
+
+### Activity
+<tr/>
+-->
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodbyeyo&theme=dark&show_icons=true)
 
 
 ### About me 💬 
 간절한 마음으로 좋은 개발자가 되기 위해 노력하고 있습니다
 
 
-### 📫 Blog
+
+### My Blog
 
 
 
