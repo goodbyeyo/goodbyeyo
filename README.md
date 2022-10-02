@@ -52,7 +52,7 @@ lightgrey
 	
   </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodbyeyo&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodbyeyo&&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff")
 
 
 ### About me 💬 
