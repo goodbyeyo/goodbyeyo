@@ -46,7 +46,7 @@ lightgrey
 -->
 
 
-<div align=center>
+<div align=left>
 	
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoodbyeyo%2F&count_bg=%2309D9C3&title_bg=%2337ACDF&icon=adblock.svg&icon_color=%23EBE9E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 	
