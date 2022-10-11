@@ -60,8 +60,8 @@ lightgrey
 
 
 
-### My Blog
-
+### My Blog 💬
+https://goodbyeyo.tistory.com/
 
 
 
