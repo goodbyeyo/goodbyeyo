@@ -60,7 +60,7 @@ lightgrey
 
 
 
-### My Blog Url 💬
+### My Blog 💬
 https://goodbyeyo.tistory.com/
 
 
